@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://steprest.github.io/sitemap.html.gz
+Sitemap: https://steprest.github.io/app/sitemap.html.gz
+Sitemap: https://steprest.github.io/assets/sitemap.html.gz
+Sitemap: https://steprest.github.io/css/sitemap.html.gz
+Sitemap: https://steprest.github.io/includes/sitemap.html.gz
+Sitemap: https://steprest.github.io/item/sitemap.html.gz
+Sitemap: https://steprest.github.io/src/sitemap.html.gz
